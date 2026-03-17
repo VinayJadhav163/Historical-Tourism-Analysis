@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>AI Historical Tourism Analysis</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<div class="dashboard-wrapper">
+    <div class="sidebar">
+        <div class="brand">
+            <div class="logo-container">
+                <svg class="logo-svg" width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Outer location pin -->
+                    <path d="M12 2C8.13 2 5 5.13 5 9C5 14.25 12 22 12 22C12 22 19 14.25 19 9C19 5.13 15.87 2 12 2Z" stroke="url(#logo-gradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <!-- Inner analytics line -->
+                    <path d="M9 12.5L11 9L13 11.5L15 7.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    <!-- Data points -->
+                    <circle cx="9" cy="12.5" r="1.5" fill="#60a5fa"/>
+                    <circle cx="11" cy="9" r="1.5" fill="#c084fc"/>
+                    <circle cx="13" cy="11.5" r="1.5" fill="#60a5fa"/>
+                    <circle cx="15" cy="7.5" r="1.5" fill="#c084fc"/>
+                    <defs>
+                        <linearGradient id="logo-gradient" x1="5" y1="2" x2="19" y2="22" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#3b82f6"/>
+                            <stop offset="1" stop-color="#c084fc"/>
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <h1>AI Tourism Analysis</h1>
+            </div>
+            <p>Predict Maharashtra Visitor Patterns</p>
+        </div>
+
+        <form method="POST">
+            <div class="form-group">
+                <label>Select Place</label>
+                <select name="place">
+                {% for p in places %}
+                <option value="{{p}}" {% if result and result.place == p %}selected{% endif %}>{{p}}</option>
+                {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Select Month</label>
+                <select name="month">
+                {% for m in months %}
+                <option value="{{m}}" {% if request.form.month == m %}selected{% endif %}>{{m}}</option>
+                {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Select Season</label>
+                <select name="season">
+                {% for s in seasons %}
+                <option value="{{s}}" {% if request.form.season == s %}selected{% endif %}>{{s}}</option>
+                {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Weekend / Holiday</label>
+                <select name="weekend">
+                {% for w in weekends %}
+                <option value="{{w}}" {% if request.form.weekend == w %}selected{% endif %}>{{w}}</option>
+                {% endfor %}
+                </select>
+            </div>
+
+            <div class="buttons">
+                <button type="submit" class="predict">Analyze Tourism Forecast</button>
+                <button type="button" class="clear" onclick="clearPage()">Reset</button>
+            </div>
+        </form>
+    </div>
+
+    <div class="main-content">
+        {% if result %}
+        <div class="dashboard-grid">
+            <div class="kpi-cards">
+                <div class="card">
+                    <span class="card-title">Tourist Crowd</span>
+                    <h3 class="card-value crowd-{{result.crowd|lower}}">{{result.crowd}}</h3>
+                </div>
+                <div class="card">
+                    <span class="card-title">Kids Visitors</span>
+                    <h3 class="card-value">{{result.kids_pct}}%</h3>
+                </div>
+                <div class="card">
+                    <span class="card-title">Senior Citizens</span>
+                    <h3 class="card-value">{{result.senior_pct}}%</h3>
+                </div>
+                <div class="card">
+                    <span class="card-title">Foreign Tourists</span>
+                    <h3 class="card-value">{{result.foreign_pct}}%</h3>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <div class="chart-header">
+                    <h2>Audience Breakdown</h2>
+                    <p>Categorical mapping prediction chart bounds</p>
+                </div>
+                <div class="chart-box">
+                    <canvas id="tourismChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const graphData = JSON.parse('{{ graph_data | tojson | safe }}');
+            const ctx = document.getElementById('tourismChart');
+            new Chart(ctx,{
+                type:'doughnut',
+                data:{
+                    labels:['Kids', 'Senior Citizens', 'Foreign Tourists', 'General Domestic Adults'],
+                    datasets:[{
+                        data:graphData,
+                        backgroundColor:[
+                            'rgba(16, 185, 129, 0.8)',
+                            'rgba(245, 158, 11, 0.8)',
+                            'rgba(239, 68, 68, 0.8)',
+                            'rgba(59, 130, 246, 0.8)'
+                        ],
+                        borderColor: [
+                            'rgb(16, 185, 129)',
+                            'rgb(245, 158, 11)',
+                            'rgb(239, 68, 68)',
+                            'rgb(59, 130, 246)'
+                        ],
+                        borderWidth: 1,
+                        hoverOffset: 4
+                    }]
+                },
+                options:{
+                    responsive:true,
+                    maintainAspectRatio:false,
+                    cutout: '65%',
+                    plugins: {
+                        legend: { 
+                            display: true,
+                            position: 'right',
+                            labels: {
+                                color: 'rgba(255,255,255,0.8)',
+                                padding: 20,
+                                font: {
+                                    size: 13,
+                                    family: "'Inter', sans-serif"
+                                }
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return ' ' + context.label + ': ' + context.parsed + '%';
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        </script>
+        {% else %}
+        <div class="empty-state">
+            <div class="empty-icon">📊</div>
+            <h2>Ready to Forecast</h2>
+            <p>Select a location, month, and season from the left sidebar to generate a tourism breakdown dashboard.</p>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<script>
+
+function clearPage(){
+window.location.href="/";
+}
+
+</script>
+
+</body>
+</html>

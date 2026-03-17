@@ -1,0 +1,1201 @@
+Place,District,Month,Season,Weekend,Weather,Visitor_Count_Level,Visitor_Type,Foreign_Tourists,Kids_Visitors,Senior_Citizens,Business_Activity
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Medium,Families,No,High,Medium,Medium
+Gateway of India,Mumbai,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Students,Yes,Low,Low,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,Low,High
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Students,Yes,Medium,Low,Low
+Shani Shingnapur,Ahmednagar,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Low,Low
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,High
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Senior Citizens,No,High,Low,Low
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Students,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,December,Winter,No,Cool,High,Senior Citizens,Yes,High,High,High
+Shani Shingnapur,Ahmednagar,September,Monsoon,No,Rainy,Medium,Families,No,Medium,High,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Families,Yes,High,Low,Low
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,Medium,Families,No,High,Medium,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Students,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,March,Summer,No,Hot,Medium,Families,Yes,Low,High,High
+Shani Shingnapur,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,No,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,January,Winter,No,Cool,High,Families,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,April,Summer,Yes,Hot,High,Families,Yes,Low,Low,High
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Families,No,Low,High,Medium
+Trimbakeshwar Temple,Nashik,January,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,High,High
+Raigad Fort,Raigad,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Students,No,Low,High,High
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,High,High
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Families,No,Medium,Low,Low
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Medium,Students,No,Medium,Medium,High
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,Medium,Senior Citizens,No,Medium,High,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,High,High
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,High,Senior Citizens,Yes,Medium,Low,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,High,High
+Ellora Caves,Aurangabad,March,Summer,No,Hot,High,Students,Yes,High,Medium,High
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,High,Families,Yes,Low,High,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,High,Senior Citizens,No,Low,High,High
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Families,Yes,Low,High,High
+Gateway of India,Mumbai,August,Monsoon,Yes,Rainy,Low,Families,Yes,High,Low,Low
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Low,Low,Medium
+Shirdi,Ahmednagar,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,Medium,High
+Gateway of India,Mumbai,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,High,Medium,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,Medium,Families,No,Medium,High,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Students,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,No,Pleasant,High,Students,No,Low,Medium,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Low,Medium,High
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,High,Students,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,High,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Families,No,Low,Low,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Ajanta Caves,Aurangabad,March,Summer,No,Hot,High,Students,Yes,Low,Low,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Families,No,High,Medium,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,April,Summer,Yes,Hot,High,Senior Citizens,No,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,High,Foreign Tourists,Yes,High,Low,High
+Mahabaleshwar,Satara,December,Winter,No,Cool,Medium,Students,No,Medium,Medium,High
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,High,High
+Raigad Fort,Raigad,June,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,High,Low,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Low,High,Low
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Senior Citizens,No,High,Medium,High
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Gateway of India,Mumbai,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Low,High,High
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Families,Yes,High,High,High
+Shirdi,Ahmednagar,April,Summer,Yes,Hot,High,Families,No,High,Low,High
+Daulatabad Fort,Aurangabad,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Raigad Fort,Raigad,May,Summer,No,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Students,Yes,High,Medium,High
+Mahabaleshwar,Satara,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Low,Medium,High
+Gateway of India,Mumbai,April,Summer,No,Hot,High,Students,No,High,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,High,Students,Yes,Low,Medium,High
+Gateway of India,Mumbai,May,Summer,Yes,Hot,High,Families,Yes,Low,Medium,High
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Students,Yes,High,Medium,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Students,No,Low,High,Medium
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,High,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,High,Families,No,High,High,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,Low,Low,Medium
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Families,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Low,High,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,Medium,Families,No,High,Low,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Low,Students,Yes,High,High,Low
+Shani Shingnapur,Ahmednagar,March,Summer,No,Hot,High,Families,Yes,Medium,Low,High
+Mahabaleshwar,Satara,April,Summer,No,Hot,High,Students,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,Low,Students,No,Low,Medium,Low
+Shani Shingnapur,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Students,No,Medium,Low,Low
+Daulatabad Fort,Aurangabad,March,Summer,No,Hot,High,Foreign Tourists,Yes,High,Low,High
+Sindhudurg Fort,Sindhudurg,January,Winter,Yes,Cool,High,Families,No,High,Medium,High
+Shirdi,Ahmednagar,March,Summer,No,Hot,High,Students,No,High,Low,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Medium,Senior Citizens,No,Medium,Low,Medium
+Shani Shingnapur,Ahmednagar,June,Monsoon,Yes,Rainy,High,Families,Yes,High,Low,High
+Raigad Fort,Raigad,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,Low,Medium
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,High,High
+Shirdi,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Families,Yes,High,Medium,Low
+Raigad Fort,Raigad,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Raigad Fort,Raigad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,High,Low,High
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,High,High
+Daulatabad Fort,Aurangabad,January,Winter,No,Cool,Medium,Senior Citizens,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Shani Shingnapur,Ahmednagar,July,Monsoon,Yes,Rainy,Low,Students,Yes,High,Medium,Low
+Daulatabad Fort,Aurangabad,February,Winter,No,Cool,Medium,Families,Yes,High,High,Medium
+Ellora Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Senior Citizens,No,High,High,High
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Low,High
+Raigad Fort,Raigad,September,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Ajanta Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,High,High,Low
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,High,Medium,Medium
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,High,High
+Raigad Fort,Raigad,December,Winter,No,Cool,Medium,Senior Citizens,Yes,High,Low,Medium
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Low,Low,Low
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,High,Low,High
+Shani Shingnapur,Ahmednagar,July,Monsoon,No,Rainy,Low,Students,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,December,Winter,No,Cool,High,Senior Citizens,No,High,Medium,High
+Gateway of India,Mumbai,April,Summer,No,Hot,High,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,February,Winter,Yes,Cool,High,Families,Yes,High,High,High
+Shirdi,Ahmednagar,April,Summer,Yes,Hot,High,Families,No,Medium,Medium,High
+Ellora Caves,Aurangabad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Shirdi,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Sindhudurg Fort,Sindhudurg,February,Winter,Yes,Cool,High,Senior Citizens,No,Low,Low,High
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,High,Families,Yes,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,High,Families,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Families,No,Low,High,Low
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Senior Citizens,Yes,High,Medium,High
+Raigad Fort,Raigad,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Low,Medium,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Low,Students,No,Medium,Medium,Low
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Ajanta Caves,Aurangabad,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Ellora Caves,Aurangabad,December,Winter,No,Cool,Medium,Senior Citizens,Yes,Low,High,Medium
+Trimbakeshwar Temple,Nashik,January,Winter,No,Cool,Medium,Senior Citizens,Yes,High,Medium,Medium
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Low,Low,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Students,Yes,Low,Medium,Medium
+Shani Shingnapur,Ahmednagar,February,Winter,Yes,Cool,High,Students,Yes,High,Medium,High
+Trimbakeshwar Temple,Nashik,July,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,March,Summer,No,Hot,High,Senior Citizens,No,High,High,High
+Sindhudurg Fort,Sindhudurg,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Medium,High
+Raigad Fort,Raigad,April,Summer,No,Hot,Medium,Families,No,Medium,Low,High
+Daulatabad Fort,Aurangabad,June,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Low,Low
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Families,No,Medium,High,High
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Senior Citizens,Yes,High,Low,High
+Raigad Fort,Raigad,January,Winter,Yes,Cool,High,Families,No,Low,Low,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Families,Yes,Low,Medium,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,High,High,Medium
+Shirdi,Ahmednagar,January,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,High,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,High,High,Low
+Ajanta Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Students,No,High,High,Low
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,High,Senior Citizens,No,Medium,Low,High
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Students,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Low,Low,High
+Ellora Caves,Aurangabad,March,Summer,Yes,Hot,High,Senior Citizens,Yes,Medium,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,High,High,Medium
+Sindhudurg Fort,Sindhudurg,July,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,February,Winter,No,Cool,Medium,Senior Citizens,No,High,Medium,Medium
+Raigad Fort,Raigad,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,High,Medium,Medium
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Students,No,Medium,High,High
+Mahabaleshwar,Satara,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Low,Medium
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Students,Yes,High,Low,High
+Ellora Caves,Aurangabad,March,Summer,No,Hot,Medium,Senior Citizens,No,Medium,High,Medium
+Ajanta Caves,Aurangabad,January,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Mahabaleshwar,Satara,March,Summer,Yes,Hot,High,Senior Citizens,Yes,Low,Low,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Families,No,Medium,High,Medium
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,High,Students,No,Medium,High,High
+Ellora Caves,Aurangabad,April,Summer,No,Hot,Medium,Families,Yes,High,Low,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Students,No,High,High,Low
+Mahabaleshwar,Satara,December,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,High,Medium
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Shirdi,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Senior Citizens,No,Low,Low,Low
+Mahabaleshwar,Satara,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Students,No,High,Low,High
+Ellora Caves,Aurangabad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Families,Yes,High,High,Low
+Gateway of India,Mumbai,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,Low,Families,No,Low,Low,Low
+Sindhudurg Fort,Sindhudurg,August,Monsoon,Yes,Rainy,High,Students,Yes,Medium,Medium,High
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Low,Families,No,Low,High,Low
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Students,Yes,Low,High,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Students,No,High,High,High
+Daulatabad Fort,Aurangabad,August,Monsoon,Yes,Rainy,Low,Students,No,Medium,Low,Low
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Medium,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,High,Senior Citizens,Yes,Low,Medium,High
+Gateway of India,Mumbai,January,Winter,No,Cool,Medium,Students,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,High,Students,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,High,Low,High
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Students,Yes,High,Medium,Low
+Ellora Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,Medium,Senior Citizens,No,High,High,High
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Senior Citizens,No,Medium,High,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Senior Citizens,Yes,Medium,Low,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,Medium,Students,No,Low,High,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Ajanta Caves,Aurangabad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Students,No,Medium,High,High
+Shirdi,Ahmednagar,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,High,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Families,Yes,Low,Low,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Students,No,High,High,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Senior Citizens,Yes,High,Medium,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,Yes,Pleasant,High,Families,No,Low,Low,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Families,Yes,Medium,Medium,High
+Ellora Caves,Aurangabad,January,Winter,Yes,Cool,High,Students,No,Low,High,High
+Shani Shingnapur,Ahmednagar,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Low,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Students,No,Medium,Medium,Low
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,Low,Students,No,Low,Medium,Low
+Sindhudurg Fort,Sindhudurg,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,High,High,Low
+Raigad Fort,Raigad,November,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Medium,Medium,High
+Ajanta Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Low,Low,Low
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Students,No,Low,Medium,Low
+Shirdi,Ahmednagar,May,Summer,No,Hot,High,Families,Yes,Medium,High,High
+Mahabaleshwar,Satara,January,Winter,No,Cool,High,Senior Citizens,Yes,Medium,Medium,High
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Senior Citizens,No,Low,High,Low
+Raigad Fort,Raigad,January,Winter,No,Cool,High,Students,Yes,Medium,High,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,High,Foreign Tourists,Yes,High,Medium,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,No,Medium,Low,High
+Ajanta Caves,Aurangabad,April,Summer,No,Hot,High,Families,Yes,Low,Medium,High
+Mahabaleshwar,Satara,May,Summer,Yes,Hot,High,Families,No,Medium,Low,High
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Senior Citizens,No,Low,High,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Senior Citizens,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,May,Summer,No,Hot,High,Foreign Tourists,Yes,High,Low,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Senior Citizens,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Low,High,High
+Raigad Fort,Raigad,June,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Medium,Low
+Raigad Fort,Raigad,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,Low,Medium
+Mahabaleshwar,Satara,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,High,Medium,Low
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Students,No,Medium,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Medium,High
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Students,Yes,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,High,Senior Citizens,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Shirdi,Ahmednagar,March,Summer,No,Hot,High,Families,Yes,Low,Low,High
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,Medium,Students,No,High,High,Medium
+Ajanta Caves,Aurangabad,January,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,Low,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Medium,Students,No,High,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Medium,High
+Ajanta Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Students,No,High,Low,Low
+Gateway of India,Mumbai,May,Summer,Yes,Hot,High,Students,Yes,Medium,High,High
+Raigad Fort,Raigad,March,Summer,Yes,Hot,High,Families,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Low,Low,Medium
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,Medium,High
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Students,No,Low,Medium,High
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Gateway of India,Mumbai,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Gateway of India,Mumbai,July,Monsoon,No,Rainy,Medium,Senior Citizens,No,Low,Medium,Medium
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Ellora Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Families,No,Low,Low,Low
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Students,No,Medium,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,No,Cool,High,Students,Yes,Medium,Low,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Senior Citizens,No,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Medium,Families,No,Low,High,High
+Ajanta Caves,Aurangabad,February,Winter,No,Cool,High,Families,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Families,No,High,Medium,Low
+Shirdi,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Students,No,High,Low,Low
+Raigad Fort,Raigad,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Ellora Caves,Aurangabad,May,Summer,No,Hot,Medium,Students,No,Medium,High,Medium
+Shani Shingnapur,Ahmednagar,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Families,No,Low,Low,High
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,High,Students,Yes,High,Medium,High
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,High,High
+Shani Shingnapur,Ahmednagar,April,Summer,Yes,Hot,High,Senior Citizens,No,High,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,Medium,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Low,Medium,Low
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Students,Yes,High,Low,Medium
+Ellora Caves,Aurangabad,May,Summer,Yes,Hot,High,Students,Yes,Low,Low,High
+Raigad Fort,Raigad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,February,Winter,Yes,Cool,High,Senior Citizens,Yes,High,High,High
+Shani Shingnapur,Ahmednagar,April,Summer,Yes,Hot,High,Students,No,High,Medium,High
+Mahabaleshwar,Satara,June,Monsoon,Yes,Rainy,Low,Students,No,Medium,High,Low
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Low,High
+Ajanta Caves,Aurangabad,January,Winter,No,Cool,Medium,Families,No,High,High,High
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,High,Students,Yes,High,Medium,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,December,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,Low,High
+Shirdi,Ahmednagar,December,Winter,No,Cool,Medium,Senior Citizens,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,No,Rainy,Low,Families,Yes,High,Medium,Low
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Students,No,Low,Low,High
+Raigad Fort,Raigad,March,Summer,Yes,Hot,High,Students,No,Low,High,High
+Gateway of India,Mumbai,March,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Medium,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Families,No,Medium,Medium,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,High,High
+Raigad Fort,Raigad,March,Summer,No,Hot,High,Senior Citizens,No,High,Medium,High
+Raigad Fort,Raigad,August,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Medium,High
+Ellora Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,High,Medium,High
+Shirdi,Ahmednagar,July,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Sindhudurg Fort,Sindhudurg,February,Winter,No,Cool,Medium,Senior Citizens,No,Low,Medium,High
+Shirdi,Ahmednagar,November,Post-Monsoon,No,Pleasant,High,Senior Citizens,Yes,Low,Low,High
+Shani Shingnapur,Ahmednagar,April,Summer,No,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,March,Summer,Yes,Hot,High,Students,No,High,Medium,High
+Raigad Fort,Raigad,September,Monsoon,No,Rainy,Low,Senior Citizens,No,High,High,Low
+Ajanta Caves,Aurangabad,March,Summer,No,Hot,High,Foreign Tourists,Yes,High,High,High
+Mahabaleshwar,Satara,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,High,High,Low
+Raigad Fort,Raigad,May,Summer,Yes,Hot,High,Families,No,High,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,No,Medium,Low,High
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Senior Citizens,Yes,Medium,Low,High
+Mahabaleshwar,Satara,March,Summer,No,Hot,Medium,Students,No,Low,High,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Low,Medium,Medium
+Raigad Fort,Raigad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,High,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,High,Families,No,High,Low,High
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,Medium,Senior Citizens,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,No,High,Medium,High
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Families,No,Medium,High,Medium
+Ellora Caves,Aurangabad,March,Summer,Yes,Hot,High,Students,Yes,High,High,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Families,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,No,High,High,High
+Gateway of India,Mumbai,March,Summer,No,Hot,Medium,Families,Yes,Medium,Low,High
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Senior Citizens,Yes,High,High,High
+Gateway of India,Mumbai,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Families,No,Medium,Medium,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Students,Yes,Low,High,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,Medium,Families,No,Low,High,High
+Shirdi,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,Medium,Low
+Gateway of India,Mumbai,May,Summer,Yes,Hot,High,Students,No,Medium,Medium,High
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Students,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Families,Yes,Medium,High,Low
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Gateway of India,Mumbai,June,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Families,No,High,High,High
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,High
+Ellora Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Students,No,High,Low,Low
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Low,Medium
+Gateway of India,Mumbai,April,Summer,No,Hot,High,Students,No,High,High,High
+Ellora Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Low,High,Low
+Raigad Fort,Raigad,March,Summer,No,Hot,Medium,Families,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Shani Shingnapur,Ahmednagar,April,Summer,Yes,Hot,High,Students,Yes,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Senior Citizens,No,High,Low,High
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Medium,Families,Yes,Medium,Low,High
+Shirdi,Ahmednagar,June,Monsoon,No,Rainy,Low,Students,No,Low,Medium,Low
+Ajanta Caves,Aurangabad,May,Summer,Yes,Hot,High,Students,No,Medium,Low,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Families,No,High,High,High
+Ellora Caves,Aurangabad,July,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Medium,High
+Gateway of India,Mumbai,March,Summer,No,Hot,High,Families,No,High,Low,High
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,Medium,Students,No,Low,Low,High
+Trimbakeshwar Temple,Nashik,June,Monsoon,Yes,Rainy,High,Families,No,Low,Low,High
+Shani Shingnapur,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,No,Low,Low,High
+Mahabaleshwar,Satara,May,Summer,No,Hot,High,Families,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Students,Yes,Low,Low,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Students,Yes,Medium,High,High
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Low,Low
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Medium,Students,No,Medium,Low,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,High,High
+Ellora Caves,Aurangabad,January,Winter,No,Cool,Medium,Families,Yes,Low,High,Medium
+Gateway of India,Mumbai,March,Summer,Yes,Hot,High,Students,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,February,Winter,No,Cool,High,Senior Citizens,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,High,Medium,High
+Ajanta Caves,Aurangabad,May,Summer,Yes,Hot,High,Senior Citizens,No,Medium,Medium,High
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Families,Yes,Low,Low,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Ellora Caves,Aurangabad,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,Medium,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Students,Yes,High,Medium,Low
+Shirdi,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Families,Yes,Medium,High,High
+Shirdi,Ahmednagar,March,Summer,No,Hot,High,Senior Citizens,Yes,High,Medium,High
+Ellora Caves,Aurangabad,April,Summer,No,Hot,High,Families,Yes,High,Medium,High
+Raigad Fort,Raigad,September,Monsoon,Yes,Rainy,Low,Students,No,Medium,Medium,Low
+Mahabaleshwar,Satara,February,Winter,No,Cool,High,Foreign Tourists,Yes,High,Low,High
+Sindhudurg Fort,Sindhudurg,January,Winter,Yes,Cool,High,Families,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Students,Yes,Medium,High,High
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Senior Citizens,No,High,Low,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,High,Families,Yes,Medium,Low,High
+Raigad Fort,Raigad,January,Winter,No,Cool,Medium,Families,Yes,Low,High,Medium
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,Yes,Cool,High,Students,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,September,Monsoon,No,Rainy,Medium,Families,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,High,Students,Yes,Low,Low,High
+Ellora Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,No,High,Medium,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Medium,High
+Shani Shingnapur,Ahmednagar,December,Winter,No,Cool,Medium,Senior Citizens,Yes,High,High,Medium
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Families,No,High,Low,High
+Gateway of India,Mumbai,June,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Shirdi,Ahmednagar,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Raigad Fort,Raigad,January,Winter,Yes,Cool,High,Students,Yes,Medium,High,High
+Mahabaleshwar,Satara,March,Summer,No,Hot,High,Senior Citizens,No,Medium,Low,High
+Trimbakeshwar Temple,Nashik,September,Monsoon,No,Rainy,Low,Students,No,Medium,Medium,Low
+Shirdi,Ahmednagar,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Raigad Fort,Raigad,December,Winter,No,Cool,High,Foreign Tourists,Yes,High,Low,High
+Mahabaleshwar,Satara,June,Monsoon,Yes,Rainy,High,Families,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,No,Rainy,Medium,Senior Citizens,No,High,Low,High
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,High,Students,No,High,Low,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Students,No,Low,Low,Low
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Families,No,High,Medium,Medium
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,No,Pleasant,High,Students,Yes,Low,Low,High
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,High,High
+Ellora Caves,Aurangabad,May,Summer,No,Hot,High,Students,No,Low,High,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,Medium
+Shani Shingnapur,Ahmednagar,April,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,Medium,Medium
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Families,Yes,High,Low,High
+Shirdi,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Families,Yes,High,High,Low
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Families,No,High,High,Medium
+Shirdi,Ahmednagar,November,Post-Monsoon,No,Pleasant,High,Families,Yes,Medium,Medium,High
+Ellora Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Sindhudurg Fort,Sindhudurg,January,Winter,Yes,Cool,High,Families,No,High,Medium,High
+Ellora Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Raigad Fort,Raigad,February,Winter,No,Cool,High,Senior Citizens,No,Medium,Medium,High
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Students,Yes,High,Low,Low
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,Low,Low,High
+Daulatabad Fort,Aurangabad,February,Winter,Yes,Cool,High,Families,No,Low,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Low,High
+Ellora Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Students,Yes,Low,Low,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Families,No,Medium,Low,Low
+Raigad Fort,Raigad,April,Summer,No,Hot,High,Families,No,High,High,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Medium,Families,Yes,Low,High,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Senior Citizens,No,Low,High,High
+Shirdi,Ahmednagar,June,Monsoon,No,Rainy,Low,Students,No,Medium,High,Low
+Daulatabad Fort,Aurangabad,February,Winter,No,Cool,Medium,Senior Citizens,No,Low,High,Medium
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Medium,Medium,Medium
+Trimbakeshwar Temple,Nashik,December,Winter,Yes,Cool,High,Families,No,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Mahabaleshwar,Satara,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Students,No,High,High,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Students,Yes,High,Low,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,Medium,High
+Ellora Caves,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,High,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Students,Yes,Low,Medium,Medium
+Ajanta Caves,Aurangabad,March,Summer,No,Hot,High,Senior Citizens,No,Low,Low,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,High,Low
+Trimbakeshwar Temple,Nashik,September,Monsoon,Yes,Rainy,Low,Students,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Raigad Fort,Raigad,May,Summer,No,Hot,High,Families,No,High,High,High
+Gateway of India,Mumbai,April,Summer,No,Hot,Medium,Students,No,Low,Medium,Medium
+Trimbakeshwar Temple,Nashik,April,Summer,No,Hot,Medium,Senior Citizens,No,High,Low,Medium
+Gateway of India,Mumbai,June,Monsoon,No,Rainy,Medium,Families,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Students,Yes,Medium,Low,Low
+Raigad Fort,Raigad,April,Summer,No,Hot,Medium,Families,Yes,Medium,Low,High
+Shirdi,Ahmednagar,March,Summer,Yes,Hot,High,Families,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Low,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Daulatabad Fort,Aurangabad,March,Summer,No,Hot,Medium,Students,No,High,High,Medium
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Senior Citizens,No,Medium,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,No,Low,Low,High
+Gateway of India,Mumbai,February,Winter,No,Cool,High,Families,No,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,High,Students,Yes,High,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Families,Yes,High,Low,High
+Shani Shingnapur,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,No,High,Medium,High
+Ellora Caves,Aurangabad,December,Winter,Yes,Cool,High,Families,Yes,Low,Low,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Families,No,Low,Low,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Trimbakeshwar Temple,Nashik,March,Summer,Yes,Hot,High,Families,No,High,Low,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Mahabaleshwar,Satara,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Medium,High
+Mahabaleshwar,Satara,March,Summer,No,Hot,High,Students,No,Low,Medium,High
+Raigad Fort,Raigad,December,Winter,Yes,Cool,High,Students,No,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Medium,High,High
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,High,High
+Raigad Fort,Raigad,April,Summer,No,Hot,High,Families,No,Low,Medium,High
+Mahabaleshwar,Satara,February,Winter,No,Cool,High,Foreign Tourists,Yes,Medium,High,High
+Ellora Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Families,No,Medium,Low,Low
+Shirdi,Ahmednagar,March,Summer,No,Hot,Medium,Senior Citizens,Yes,Medium,Medium,Medium
+Raigad Fort,Raigad,December,Winter,No,Cool,Medium,Families,No,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Senior Citizens,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,May,Summer,Yes,Hot,High,Families,Yes,High,Medium,High
+Gateway of India,Mumbai,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Low,High,Low
+Raigad Fort,Raigad,November,Post-Monsoon,No,Pleasant,High,Families,Yes,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Students,Yes,High,Medium,High
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Low,Students,No,High,Low,Low
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Medium,Medium
+Daulatabad Fort,Aurangabad,January,Winter,No,Cool,High,Students,No,High,Medium,High
+Shirdi,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Families,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Medium,High,Medium
+Raigad Fort,Raigad,June,Monsoon,No,Rainy,Low,Students,Yes,Low,Low,Low
+Mahabaleshwar,Satara,March,Summer,No,Hot,Medium,Senior Citizens,Yes,High,Low,Medium
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Medium,Medium,High
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Low,Medium,Medium
+Shani Shingnapur,Ahmednagar,June,Monsoon,No,Rainy,Low,Families,Yes,Medium,High,Low
+Ajanta Caves,Aurangabad,January,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Students,No,Medium,Low,Medium
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Families,No,Low,High,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Senior Citizens,Yes,High,Medium,High
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,Medium
+Sindhudurg Fort,Sindhudurg,July,Monsoon,No,Rainy,Low,Students,No,Medium,Medium,Low
+Daulatabad Fort,Aurangabad,June,Monsoon,No,Rainy,Low,Families,No,High,Low,Low
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Families,Yes,Low,High,Low
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Low,Families,No,Low,Medium,Low
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Families,Yes,Low,Low,High
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Shirdi,Ahmednagar,May,Summer,No,Hot,Medium,Students,No,Medium,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Families,No,High,Medium,High
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,Medium,Students,No,High,Low,Medium
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Senior Citizens,No,Low,High,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Families,Yes,Low,High,High
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,High,Senior Citizens,No,Low,Medium,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,Medium,Students,No,Low,Low,High
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Medium,High
+Raigad Fort,Raigad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Shirdi,Ahmednagar,September,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Low,High,High
+Shirdi,Ahmednagar,April,Summer,Yes,Hot,High,Senior Citizens,No,High,Low,High
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Families,No,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,High
+Shani Shingnapur,Ahmednagar,May,Summer,Yes,Hot,High,Families,No,High,High,High
+Trimbakeshwar Temple,Nashik,January,Winter,No,Cool,High,Senior Citizens,Yes,High,Low,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Senior Citizens,Yes,High,Low,Medium
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Families,Yes,High,High,Low
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Senior Citizens,No,High,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,High,High,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Families,Yes,High,Medium,Low
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Medium,Senior Citizens,No,Medium,High,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Sindhudurg Fort,Sindhudurg,July,Monsoon,Yes,Rainy,Low,Families,Yes,High,Medium,Low
+Shani Shingnapur,Ahmednagar,December,Winter,No,Cool,Medium,Students,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Students,Yes,High,Medium,High
+Raigad Fort,Raigad,September,Monsoon,No,Rainy,Low,Students,No,Medium,High,Low
+Ellora Caves,Aurangabad,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Families,No,Low,Low,High
+Daulatabad Fort,Aurangabad,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Gateway of India,Mumbai,May,Summer,Yes,Hot,High,Senior Citizens,Yes,Low,High,High
+Shirdi,Ahmednagar,February,Winter,No,Cool,High,Senior Citizens,No,High,Low,High
+Sindhudurg Fort,Sindhudurg,December,Winter,Yes,Cool,High,Senior Citizens,No,High,High,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Families,No,Low,High,High
+Mahabaleshwar,Satara,December,Winter,No,Cool,High,Families,Yes,High,Medium,High
+Shani Shingnapur,Ahmednagar,February,Winter,Yes,Cool,High,Students,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,Yes,Rainy,Low,Families,No,Medium,Low,Low
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Families,Yes,Low,High,High
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Families,Yes,High,Low,Low
+Sindhudurg Fort,Sindhudurg,April,Summer,Yes,Hot,High,Students,Yes,Low,High,High
+Sindhudurg Fort,Sindhudurg,May,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Medium,High
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Low,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Sindhudurg Fort,Sindhudurg,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Trimbakeshwar Temple,Nashik,July,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Medium,Low
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Senior Citizens,No,Low,High,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,High,Families,Yes,Low,Medium,High
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Students,No,High,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,High,Medium
+Shirdi,Ahmednagar,February,Winter,No,Cool,High,Senior Citizens,No,Medium,Medium,High
+Shirdi,Ahmednagar,February,Winter,No,Cool,Medium,Students,No,Low,Medium,High
+Mahabaleshwar,Satara,December,Winter,No,Cool,High,Families,No,High,High,High
+Mahabaleshwar,Satara,July,Monsoon,Yes,Rainy,Low,Students,No,High,High,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Families,No,Low,High,High
+Shani Shingnapur,Ahmednagar,March,Summer,No,Hot,High,Families,Yes,High,Medium,High
+Gateway of India,Mumbai,March,Summer,No,Hot,High,Students,No,Low,Low,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,High,Senior Citizens,No,Low,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,No,High,High,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Families,No,Medium,High,High
+Gateway of India,Mumbai,June,Monsoon,No,Rainy,Low,Students,No,High,Medium,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Medium,High
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,Low,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,High,Families,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Students,Yes,Low,Medium,High
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Families,Yes,High,High,High
+Mahabaleshwar,Satara,November,Post-Monsoon,Yes,Pleasant,High,Families,No,Low,Low,High
+Gateway of India,Mumbai,May,Summer,No,Hot,High,Students,No,Medium,Medium,High
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Students,Yes,Low,Low,High
+Gateway of India,Mumbai,July,Monsoon,Yes,Rainy,Low,Families,Yes,Low,Low,Low
+Ellora Caves,Aurangabad,March,Summer,No,Hot,High,Families,Yes,High,High,High
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Families,Yes,High,Low,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Senior Citizens,Yes,High,Low,High
+Sindhudurg Fort,Sindhudurg,April,Summer,Yes,Hot,High,Students,No,Medium,Low,High
+Gateway of India,Mumbai,July,Monsoon,No,Rainy,Medium,Families,Yes,Medium,Low,High
+Raigad Fort,Raigad,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Students,No,Low,Low,High
+Daulatabad Fort,Aurangabad,May,Summer,Yes,Hot,High,Students,No,Low,Low,High
+Shirdi,Ahmednagar,September,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Low,Medium,High
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Families,No,High,Low,Medium
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Daulatabad Fort,Aurangabad,February,Winter,Yes,Cool,High,Students,No,Low,Low,High
+Trimbakeshwar Temple,Nashik,December,Winter,Yes,Cool,High,Students,No,Medium,High,High
+Shani Shingnapur,Ahmednagar,February,Winter,Yes,Cool,High,Families,No,Low,Low,High
+Gateway of India,Mumbai,April,Summer,No,Hot,Medium,Students,No,High,Medium,High
+Shirdi,Ahmednagar,September,Monsoon,No,Rainy,Low,Senior Citizens,Yes,High,High,Low
+Gateway of India,Mumbai,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Ajanta Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Students,Yes,Medium,High,Low
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,Medium,Families,No,High,Low,High
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Families,No,High,High,High
+Trimbakeshwar Temple,Nashik,December,Winter,Yes,Cool,High,Students,No,Medium,Medium,High
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Students,No,Low,High,Low
+Gateway of India,Mumbai,January,Winter,Yes,Cool,High,Families,No,Low,Medium,High
+Raigad Fort,Raigad,November,Post-Monsoon,No,Pleasant,Medium,Students,No,High,High,Medium
+Ajanta Caves,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,High,High,High
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Senior Citizens,No,Medium,Low,High
+Trimbakeshwar Temple,Nashik,March,Summer,Yes,Hot,High,Senior Citizens,No,Medium,Low,High
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Students,No,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,July,Monsoon,No,Rainy,Low,Families,No,Medium,High,Low
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Families,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Medium,High
+Ellora Caves,Aurangabad,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Low,High
+Trimbakeshwar Temple,Nashik,July,Monsoon,No,Rainy,Low,Families,Yes,Medium,Medium,Low
+Shirdi,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,High,Low,Low
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,High,High
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Shani Shingnapur,Ahmednagar,April,Summer,Yes,Hot,High,Families,No,Medium,Low,High
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Students,No,Medium,Low,High
+Raigad Fort,Raigad,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Students,No,Medium,High,High
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,Low,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Students,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Students,No,High,Medium,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Students,No,Medium,Medium,Medium
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,Low,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Foreign Tourists,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Families,Yes,Low,Low,Low
+Gateway of India,Mumbai,May,Summer,No,Hot,High,Families,Yes,Low,High,High
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Medium,High
+Ellora Caves,Aurangabad,March,Summer,No,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,February,Winter,Yes,Cool,High,Students,No,High,Medium,High
+Shani Shingnapur,Ahmednagar,February,Winter,Yes,Cool,High,Families,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Students,Yes,High,Low,Medium
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Low,High
+Daulatabad Fort,Aurangabad,September,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Low,Low
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Families,No,High,High,High
+Ajanta Caves,Aurangabad,April,Summer,No,Hot,Medium,Families,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,High,Students,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,January,Winter,Yes,Cool,High,Senior Citizens,No,Medium,Low,High
+Ajanta Caves,Aurangabad,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Low,Low
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Students,No,Low,Low,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,High,High
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Students,Yes,High,High,High
+Ajanta Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Sindhudurg Fort,Sindhudurg,September,Monsoon,No,Rainy,Medium,Students,No,High,Low,Medium
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Students,Yes,High,Low,High
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Students,No,High,Medium,Low
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,No,Pleasant,Medium,Students,No,High,High,High
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Sindhudurg Fort,Sindhudurg,March,Summer,No,Hot,Medium,Students,No,Low,Low,High
+Gateway of India,Mumbai,August,Monsoon,Yes,Rainy,Low,Families,Yes,High,Medium,Low
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Low,Families,Yes,Medium,Low,Low
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,High,Medium,High
+Trimbakeshwar Temple,Nashik,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Low,Families,Yes,Medium,High,Low
+Shirdi,Ahmednagar,April,Summer,Yes,Hot,High,Families,No,High,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,High,Low,Medium
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Students,No,Low,Low,Low
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Medium,Senior Citizens,No,Low,Low,High
+Sindhudurg Fort,Sindhudurg,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,High,Medium
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,Medium
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,High,Low
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Medium,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Families,Yes,High,Low,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Ellora Caves,Aurangabad,March,Summer,Yes,Hot,High,Families,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,December,Winter,No,Cool,Medium,Families,Yes,High,Medium,Medium
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Students,No,Medium,Low,High
+Mahabaleshwar,Satara,March,Summer,Yes,Hot,High,Families,No,High,Low,High
+Raigad Fort,Raigad,July,Monsoon,No,Rainy,Medium,Senior Citizens,No,Medium,High,Medium
+Trimbakeshwar Temple,Nashik,December,Winter,No,Cool,High,Senior Citizens,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Shani Shingnapur,Ahmednagar,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Students,No,Medium,Low,High
+Daulatabad Fort,Aurangabad,August,Monsoon,Yes,Rainy,High,Students,Yes,Medium,Medium,High
+Raigad Fort,Raigad,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Medium,Low,High
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,December,Winter,No,Cool,High,Families,No,Low,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,High,Families,No,High,Medium,High
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Low,Families,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Senior Citizens,No,Low,High,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Students,Yes,Medium,High,Low
+Ellora Caves,Aurangabad,December,Winter,No,Cool,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,December,Winter,No,Cool,High,Senior Citizens,No,High,Medium,High
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Families,Yes,Medium,High,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Mahabaleshwar,Satara,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,July,Monsoon,No,Rainy,Low,Families,Yes,High,High,Low
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Low,High
+Gateway of India,Mumbai,January,Winter,Yes,Cool,High,Students,Yes,High,High,High
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,Yes,High,Low,High
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Senior Citizens,Yes,High,Medium,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Families,Yes,Low,Medium,High
+Mahabaleshwar,Satara,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,February,Winter,Yes,Cool,High,Families,Yes,High,High,High
+Raigad Fort,Raigad,December,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,Yes,Low,High,High
+Ellora Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Shani Shingnapur,Ahmednagar,January,Winter,Yes,Cool,High,Students,No,High,Medium,High
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,Medium,Students,No,High,Medium,Medium
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,High
+Ellora Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Families,No,High,High,Low
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Low,Families,No,Low,High,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,Medium,Low
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Senior Citizens,No,High,Low,High
+Shani Shingnapur,Ahmednagar,September,Monsoon,No,Rainy,Low,Students,No,Low,Low,Low
+Raigad Fort,Raigad,February,Winter,No,Cool,High,Senior Citizens,No,Low,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Gateway of India,Mumbai,October,Post-Monsoon,Yes,Pleasant,High,Students,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,High,Families,No,Medium,Low,High
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Senior Citizens,Yes,High,Medium,High
+Raigad Fort,Raigad,May,Summer,No,Hot,High,Students,No,Low,High,High
+Ajanta Caves,Aurangabad,May,Summer,No,Hot,High,Students,No,Low,Medium,High
+Mahabaleshwar,Satara,April,Summer,No,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,High,High
+Shani Shingnapur,Ahmednagar,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Medium,Medium,Medium
+Sindhudurg Fort,Sindhudurg,March,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,June,Monsoon,No,Rainy,Medium,Senior Citizens,No,Medium,High,High
+Trimbakeshwar Temple,Nashik,June,Monsoon,No,Rainy,Low,Students,Yes,Medium,Medium,Low
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Families,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Low,Low,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,Yes,Rainy,Low,Students,Yes,Medium,Medium,Low
+Trimbakeshwar Temple,Nashik,June,Monsoon,Yes,Rainy,Low,Students,Yes,Medium,High,Low
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Students,No,High,High,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Students,Yes,Medium,Low,Medium
+Ellora Caves,Aurangabad,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,Low,Medium
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Senior Citizens,No,Medium,Low,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,No,Low,Low,High
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Low,Low,Medium
+Ellora Caves,Aurangabad,March,Summer,No,Hot,High,Students,Yes,High,Medium,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,Medium
+Mahabaleshwar,Satara,March,Summer,Yes,Hot,High,Students,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,January,Winter,No,Cool,High,Families,Yes,High,Medium,High
+Ajanta Caves,Aurangabad,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Students,Yes,Low,Low,Low
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Medium,Medium
+Raigad Fort,Raigad,December,Winter,No,Cool,High,Senior Citizens,No,High,High,High
+Sindhudurg Fort,Sindhudurg,March,Summer,No,Hot,Medium,Students,No,High,Low,Medium
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,July,Monsoon,No,Rainy,Low,Students,No,Low,Low,Low
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,High,High
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,July,Monsoon,No,Rainy,Low,Students,No,Medium,High,Low
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Families,Yes,Low,Medium,Low
+Ajanta Caves,Aurangabad,December,Winter,No,Cool,High,Students,Yes,Low,Medium,High
+Gateway of India,Mumbai,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Low,High
+Raigad Fort,Raigad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,Medium,Students,Yes,High,Medium,Medium
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Families,No,High,Low,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Families,No,Low,Low,High
+Gateway of India,Mumbai,August,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Low,High
+Trimbakeshwar Temple,Nashik,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Mahabaleshwar,Satara,July,Monsoon,Yes,Rainy,Low,Families,No,High,Low,Low
+Mahabaleshwar,Satara,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,Low,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,January,Winter,No,Cool,Medium,Senior Citizens,Yes,Low,High,Medium
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Low,Medium,Medium
+Gateway of India,Mumbai,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,High,Families,No,High,Low,High
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Medium,Senior Citizens,No,High,Medium,Medium
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Families,No,High,High,High
+Shirdi,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,No,High,Medium,Low
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Students,Yes,High,Low,Medium
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Students,Yes,High,High,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Medium,Students,Yes,Medium,Medium,Medium
+Trimbakeshwar Temple,Nashik,July,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Senior Citizens,Yes,Low,Medium,High
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,No,High,High,High
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,High
+Raigad Fort,Raigad,October,Post-Monsoon,No,Pleasant,High,Students,No,High,High,High
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Families,No,High,Low,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,No,Rainy,Medium,Students,Yes,High,High,Medium
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,Medium,High
+Gateway of India,Mumbai,June,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,High,Medium,Medium
+Shani Shingnapur,Ahmednagar,February,Winter,No,Cool,High,Families,Yes,High,High,High
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,Medium
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,High,High
+Raigad Fort,Raigad,December,Winter,Yes,Cool,High,Students,Yes,Medium,Low,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Families,Yes,Medium,Low,High
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,High,Students,Yes,Low,Low,High
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Students,No,Medium,Medium,High
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,Low,High
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Families,No,High,High,High
+Shirdi,Ahmednagar,April,Summer,No,Hot,Medium,Families,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Students,No,Low,High,High
+Raigad Fort,Raigad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,Medium,High,Medium
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Students,Yes,Medium,Low,Low
+Gateway of India,Mumbai,September,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Medium,Low
+Daulatabad Fort,Aurangabad,August,Monsoon,No,Rainy,Low,Families,Yes,High,Medium,Low
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,High,Senior Citizens,Yes,Low,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,High,Students,No,High,High,High
+Mahabaleshwar,Satara,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,High,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,No,Pleasant,High,Students,Yes,Medium,High,High
+Mahabaleshwar,Satara,May,Summer,No,Hot,Medium,Senior Citizens,Yes,High,High,Medium
+Shani Shingnapur,Ahmednagar,April,Summer,No,Hot,Medium,Families,Yes,Low,Low,Medium
+Trimbakeshwar Temple,Nashik,July,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,High,Low,Medium
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,High,Medium,Low
+Raigad Fort,Raigad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,February,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,High,High
+Shirdi,Ahmednagar,February,Winter,No,Cool,High,Students,Yes,Low,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Families,No,Medium,Low,High
+Shirdi,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Mahabaleshwar,Satara,June,Monsoon,Yes,Rainy,Low,Families,Yes,Low,High,Low
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Low,Medium,High
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Families,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Families,Yes,Low,Medium,Medium
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Students,Yes,High,Medium,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,No,Rainy,Low,Senior Citizens,Yes,High,High,Low
+Ellora Caves,Aurangabad,January,Winter,Yes,Cool,High,Students,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,January,Winter,No,Cool,Medium,Students,No,Medium,Medium,Medium
+Ajanta Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,No,Pleasant,High,Families,No,High,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Low,High
+Trimbakeshwar Temple,Nashik,June,Monsoon,No,Rainy,Medium,Students,No,High,High,High
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,High,Low,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,No,High,Medium,High
+Gateway of India,Mumbai,December,Winter,No,Cool,High,Families,No,Medium,Medium,High
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,Yes,Low,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,No,Rainy,Low,Students,Yes,Medium,Low,Low
+Daulatabad Fort,Aurangabad,January,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,High,Medium
+Ajanta Caves,Aurangabad,January,Winter,No,Cool,High,Senior Citizens,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Low,High
+Shirdi,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Shirdi,Ahmednagar,October,Post-Monsoon,No,Pleasant,High,Students,No,High,Medium,High
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Families,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Medium,High
+Ajanta Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Gateway of India,Mumbai,January,Winter,No,Cool,High,Foreign Tourists,Yes,High,Low,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,Yes,Hot,High,Families,No,High,High,High
+Shirdi,Ahmednagar,May,Summer,Yes,Hot,High,Families,Yes,Low,Low,High
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Families,No,High,Low,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Senior Citizens,No,High,Medium,Low
+Sindhudurg Fort,Sindhudurg,August,Monsoon,No,Rainy,Low,Students,Yes,Low,High,Low
+Raigad Fort,Raigad,March,Summer,No,Hot,Medium,Students,Yes,High,Low,High
+Gateway of India,Mumbai,May,Summer,No,Hot,High,Families,No,Low,Low,High
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Senior Citizens,No,Low,Medium,High
+Gateway of India,Mumbai,June,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,High,Low
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Senior Citizens,Yes,High,Medium,Medium
+Ellora Caves,Aurangabad,December,Winter,No,Cool,Medium,Senior Citizens,Yes,Low,Medium,Medium
+Mahabaleshwar,Satara,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,High,High
+Ellora Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Students,Yes,Low,Low,Low
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Students,No,Low,Medium,High
+Ajanta Caves,Aurangabad,June,Monsoon,Yes,Rainy,High,Students,Yes,Low,Medium,High
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Families,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,March,Summer,No,Hot,Medium,Families,Yes,High,High,Medium
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,No,Medium,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,High,High
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,June,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Low,High
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Families,No,Low,Low,Low
+Shirdi,Ahmednagar,December,Winter,No,Cool,High,Families,Yes,Medium,Medium,High
+Raigad Fort,Raigad,September,Monsoon,No,Rainy,Low,Families,Yes,High,Medium,Low
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,High,Senior Citizens,No,Medium,High,High
+Raigad Fort,Raigad,February,Winter,No,Cool,High,Families,Yes,Low,High,High
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Students,No,High,Low,Low
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Ellora Caves,Aurangabad,April,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,Low,High
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Medium,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Students,No,Low,High,Low
+Mahabaleshwar,Satara,March,Summer,No,Hot,Medium,Students,Yes,Medium,Low,Medium
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Families,No,Low,Low,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Families,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Medium,Senior Citizens,No,High,High,Medium
+Mahabaleshwar,Satara,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,April,Summer,No,Hot,High,Students,Yes,Medium,High,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,April,Summer,Yes,Hot,High,Senior Citizens,No,Low,High,High
+Trimbakeshwar Temple,Nashik,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Ajanta Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Families,No,Low,Low,Low
+Raigad Fort,Raigad,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,High,Low
+Shani Shingnapur,Ahmednagar,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,Medium,High
+Shirdi,Ahmednagar,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,Low,High
+Daulatabad Fort,Aurangabad,May,Summer,Yes,Hot,High,Students,No,Medium,Medium,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Families,Yes,Low,High,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,High,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,Yes,Cool,High,Students,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Medium,Low
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,High,Low
+Daulatabad Fort,Aurangabad,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Ellora Caves,Aurangabad,September,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,Medium,High
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Families,Yes,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Low,High,High
+Ellora Caves,Aurangabad,March,Summer,Yes,Hot,High,Students,Yes,Medium,High,High
+Ellora Caves,Aurangabad,December,Winter,Yes,Cool,High,Students,No,Low,Medium,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Students,No,Medium,Medium,High
+Ajanta Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,Low,Low
+Gateway of India,Mumbai,November,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Families,No,High,Medium,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Families,No,Medium,Low,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,May,Summer,Yes,Hot,High,Families,No,Low,High,High
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Low,Families,No,High,Low,Low
+Ajanta Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Families,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,April,Summer,Yes,Hot,High,Senior Citizens,No,High,High,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,Yes,Pleasant,High,Families,No,High,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,No,Cool,Medium,Families,Yes,Low,Low,High
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,High,Families,No,Medium,High,High
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Students,No,Low,High,High
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Low,Low,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Low,High
+Sindhudurg Fort,Sindhudurg,May,Summer,Yes,Hot,High,Students,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Families,No,Medium,Medium,High
+Trimbakeshwar Temple,Nashik,December,Winter,No,Cool,High,Students,No,High,Low,High
+Shani Shingnapur,Ahmednagar,December,Winter,Yes,Cool,High,Families,No,Medium,High,High
+Ellora Caves,Aurangabad,August,Monsoon,No,Rainy,Medium,Students,No,Low,Medium,Medium
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,High,High
+Shani Shingnapur,Ahmednagar,December,Winter,No,Cool,High,Foreign Tourists,Yes,High,High,High
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,Low,Low
+Ellora Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,High,Low,Low
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,High,High,High
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Families,Yes,Low,High,Low
+Shirdi,Ahmednagar,April,Summer,No,Hot,Medium,Senior Citizens,Yes,Low,High,High
+Raigad Fort,Raigad,August,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Shani Shingnapur,Ahmednagar,February,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,Low,High
+Shani Shingnapur,Ahmednagar,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Low,Low,High
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,Low,Medium
+Ajanta Caves,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,High,Medium,Low
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Mahabaleshwar,Satara,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,Low,Low,Medium
+Trimbakeshwar Temple,Nashik,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,Medium,Low,High
+Shirdi,Ahmednagar,August,Monsoon,No,Rainy,Medium,Senior Citizens,Yes,Medium,Low,Medium
+Shirdi,Ahmednagar,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Medium,High,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,Low,Low,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Students,No,Low,High,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,February,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,Medium,High
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Families,No,High,Low,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,Yes,Pleasant,High,Students,Yes,High,Low,High
+Daulatabad Fort,Aurangabad,December,Winter,Yes,Cool,High,Senior Citizens,No,Medium,Medium,High
+Mahabaleshwar,Satara,February,Winter,No,Cool,High,Families,No,Low,High,High
+Raigad Fort,Raigad,December,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,Medium,Medium
+Gateway of India,Mumbai,April,Summer,Yes,Hot,High,Students,No,Medium,High,High
+Raigad Fort,Raigad,July,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,High,Low
+Mahabaleshwar,Satara,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Medium,High
+Mahabaleshwar,Satara,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Ajanta Caves,Aurangabad,January,Winter,No,Cool,Medium,Families,No,Medium,Low,Medium
+Ajanta Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Families,Yes,Low,Low,Low
+Sindhudurg Fort,Sindhudurg,September,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Students,No,Medium,High,Low
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Students,Yes,High,High,High
+Mahabaleshwar,Satara,September,Monsoon,No,Rainy,Low,Families,Yes,Low,Low,Low
+Raigad Fort,Raigad,February,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,High,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Students,No,High,High,Medium
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Students,No,Low,High,High
+Trimbakeshwar Temple,Nashik,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Low,High,Medium
+Gateway of India,Mumbai,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,High,Students,Yes,Low,Low,High
+Daulatabad Fort,Aurangabad,June,Monsoon,No,Rainy,Low,Students,Yes,Low,High,Low
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Gateway of India,Mumbai,January,Winter,No,Cool,High,Families,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Students,No,High,Low,Low
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,Medium,High
+Sindhudurg Fort,Sindhudurg,August,Monsoon,Yes,Rainy,High,Foreign Tourists,Yes,High,Low,High
+Shani Shingnapur,Ahmednagar,July,Monsoon,No,Rainy,Low,Senior Citizens,Yes,Medium,High,Low
+Ellora Caves,Aurangabad,March,Summer,Yes,Hot,High,Students,No,High,Medium,High
+Shirdi,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Students,No,Medium,High,Low
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,July,Monsoon,No,Rainy,Low,Students,Yes,High,Low,Low
+Daulatabad Fort,Aurangabad,July,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,High,Low,Medium
+Raigad Fort,Raigad,December,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,High,High
+Trimbakeshwar Temple,Nashik,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Senior Citizens,No,High,Low,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Families,No,Medium,Low,Low
+Shirdi,Ahmednagar,January,Winter,No,Cool,Medium,Foreign Tourists,Yes,Low,Low,High
+Ellora Caves,Aurangabad,February,Winter,No,Cool,High,Students,Yes,High,High,High
+Gateway of India,Mumbai,February,Winter,Yes,Cool,High,Senior Citizens,No,Medium,High,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,High,Senior Citizens,Yes,High,High,High
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,Medium,Families,Yes,Low,High,High
+Trimbakeshwar Temple,Nashik,July,Monsoon,No,Rainy,Medium,Families,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,June,Monsoon,No,Rainy,Medium,Students,No,Medium,Medium,High
+Raigad Fort,Raigad,January,Winter,Yes,Cool,High,Senior Citizens,Yes,High,Medium,High
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Families,Yes,High,High,Low
+Daulatabad Fort,Aurangabad,December,Winter,No,Cool,High,Senior Citizens,Yes,Low,Medium,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Mahabaleshwar,Satara,November,Post-Monsoon,No,Pleasant,High,Families,No,Medium,High,High
+Gateway of India,Mumbai,June,Monsoon,Yes,Rainy,Low,Families,No,Low,Low,Low
+Trimbakeshwar Temple,Nashik,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,High,Medium,High
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,Medium,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Senior Citizens,No,Low,High,High
+Gateway of India,Mumbai,September,Monsoon,No,Rainy,Low,Families,Yes,Low,High,Low
+Shirdi,Ahmednagar,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,Medium
+Mahabaleshwar,Satara,December,Winter,No,Cool,High,Students,No,Low,Low,High
+Shirdi,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,High,Medium,Medium
+Ajanta Caves,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Students,No,Medium,High,Medium
+Shirdi,Ahmednagar,March,Summer,Yes,Hot,High,Senior Citizens,No,Low,High,High
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,January,Winter,No,Cool,High,Families,Yes,High,Medium,High
+Daulatabad Fort,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Ajanta Caves,Aurangabad,February,Winter,Yes,Cool,High,Students,Yes,Medium,High,High
+Raigad Fort,Raigad,May,Summer,Yes,Hot,High,Students,No,Low,High,High
+Ellora Caves,Aurangabad,June,Monsoon,No,Rainy,Low,Students,No,High,Medium,Low
+Shani Shingnapur,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Medium,High,Low
+Shirdi,Ahmednagar,March,Summer,Yes,Hot,High,Families,Yes,Low,Low,High
+Shirdi,Ahmednagar,April,Summer,No,Hot,Medium,Senior Citizens,Yes,High,High,High
+Shirdi,Ahmednagar,December,Winter,Yes,Cool,High,Senior Citizens,Yes,High,Low,High
+Ellora Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Medium,Low
+Daulatabad Fort,Aurangabad,June,Monsoon,Yes,Rainy,Low,Students,Yes,Medium,Medium,Low
+Gateway of India,Mumbai,November,Post-Monsoon,No,Pleasant,High,Students,Yes,High,Low,High
+Gateway of India,Mumbai,February,Winter,No,Cool,Medium,Senior Citizens,No,High,High,High
+Gateway of India,Mumbai,January,Winter,Yes,Cool,High,Senior Citizens,No,High,Medium,High
+Shirdi,Ahmednagar,February,Winter,No,Cool,High,Students,No,Low,High,High
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Families,Yes,Low,Low,High
+Gateway of India,Mumbai,July,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,High,Low
+Shirdi,Ahmednagar,May,Summer,No,Hot,Medium,Senior Citizens,No,Medium,High,High
+Shirdi,Ahmednagar,May,Summer,No,Hot,Medium,Families,No,Medium,Low,High
+Sindhudurg Fort,Sindhudurg,October,Post-Monsoon,No,Pleasant,High,Students,No,High,Medium,High
+Daulatabad Fort,Aurangabad,February,Winter,No,Cool,High,Foreign Tourists,Yes,Medium,Medium,High
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,No,Low,Low,High
+Shani Shingnapur,Ahmednagar,March,Summer,Yes,Hot,High,Students,No,Low,High,High
+Gateway of India,Mumbai,September,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Medium,Low
+Sindhudurg Fort,Sindhudurg,January,Winter,No,Cool,Medium,Senior Citizens,No,Medium,Low,High
+Shani Shingnapur,Ahmednagar,May,Summer,No,Hot,Medium,Students,No,High,High,Medium
+Sindhudurg Fort,Sindhudurg,June,Monsoon,No,Rainy,Low,Students,Yes,Medium,Low,Low
+Trimbakeshwar Temple,Nashik,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Low,High
+Ellora Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Students,No,High,Medium,Low
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Students,No,High,High,High
+Sindhudurg Fort,Sindhudurg,December,Winter,No,Cool,High,Students,Yes,High,High,High
+Daulatabad Fort,Aurangabad,January,Winter,Yes,Cool,High,Foreign Tourists,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Families,Yes,Low,Low,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,No,Pleasant,Medium,Foreign Tourists,Yes,Medium,Medium,Medium
+Shani Shingnapur,Ahmednagar,April,Summer,No,Hot,High,Students,Yes,Medium,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Families,Yes,High,High,Low
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,Medium,Low
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,High,Senior Citizens,No,High,Low,High
+Raigad Fort,Raigad,June,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Sindhudurg Fort,Sindhudurg,September,Monsoon,No,Rainy,Low,Senior Citizens,No,Medium,Medium,Low
+Shani Shingnapur,Ahmednagar,January,Winter,Yes,Cool,High,Students,No,High,Low,High
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Families,No,Medium,High,High
+Ajanta Caves,Aurangabad,August,Monsoon,Yes,Rainy,Low,Families,Yes,Medium,Low,Low
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,Low,Medium
+Ajanta Caves,Aurangabad,July,Monsoon,No,Rainy,Medium,Students,No,Low,Medium,Medium
+Sindhudurg Fort,Sindhudurg,April,Summer,No,Hot,Medium,Families,Yes,High,Low,High
+Gateway of India,Mumbai,May,Summer,No,Hot,Medium,Families,Yes,Low,High,Medium
+Raigad Fort,Raigad,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,Medium,High,High
+Shirdi,Ahmednagar,March,Summer,Yes,Hot,High,Families,No,Low,Medium,High
+Daulatabad Fort,Aurangabad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,Low,High
+Trimbakeshwar Temple,Nashik,March,Summer,Yes,Hot,High,Students,Yes,High,Low,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Students,Yes,Low,High,Low
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Foreign Tourists,Yes,Medium,Low,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Senior Citizens,No,Medium,High,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,High,Medium,High
+Mahabaleshwar,Satara,August,Monsoon,No,Rainy,Low,Families,No,Medium,High,Low
+Ajanta Caves,Aurangabad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,March,Summer,No,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Families,No,Medium,High,Low
+Trimbakeshwar Temple,Nashik,January,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Families,No,Medium,High,High
+Ellora Caves,Aurangabad,February,Winter,Yes,Cool,High,Families,Yes,High,Low,High
+Raigad Fort,Raigad,September,Monsoon,Yes,Rainy,Low,Senior Citizens,No,Low,Medium,Low
+Shirdi,Ahmednagar,May,Summer,No,Hot,Medium,Foreign Tourists,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,September,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,High,Low
+Shani Shingnapur,Ahmednagar,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Ajanta Caves,Aurangabad,March,Summer,Yes,Hot,High,Families,Yes,High,High,High
+Sindhudurg Fort,Sindhudurg,January,Winter,Yes,Cool,High,Senior Citizens,No,Medium,High,High
+Shani Shingnapur,Ahmednagar,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Ellora Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Low,Medium,Low
+Shirdi,Ahmednagar,November,Post-Monsoon,Yes,Pleasant,High,Senior Citizens,Yes,High,Low,High
+Mahabaleshwar,Satara,August,Monsoon,No,Rainy,Low,Families,Yes,Low,Low,Low
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Families,Yes,High,Medium,Low
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,High,Low
+Ellora Caves,Aurangabad,January,Winter,No,Cool,High,Foreign Tourists,Yes,Medium,Medium,High
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Medium,High
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Senior Citizens,No,Low,High,Low
+Shani Shingnapur,Ahmednagar,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,No,High,Medium,High
+Mahabaleshwar,Satara,February,Winter,No,Cool,High,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,February,Winter,No,Cool,Medium,Families,Yes,High,High,High
+Trimbakeshwar Temple,Nashik,February,Winter,Yes,Cool,High,Students,No,Medium,High,High
+Gateway of India,Mumbai,September,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,Low,Low,High
+Ellora Caves,Aurangabad,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Low,High,Low
+Gateway of India,Mumbai,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Trimbakeshwar Temple,Nashik,April,Summer,No,Hot,Medium,Senior Citizens,No,High,Medium,High
+Ajanta Caves,Aurangabad,July,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,High,Low
+Shani Shingnapur,Ahmednagar,January,Winter,No,Cool,High,Foreign Tourists,Yes,High,Medium,High
+Gateway of India,Mumbai,March,Summer,No,Hot,Medium,Families,No,Low,High,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,Medium,Students,Yes,Low,Low,Medium
+Shirdi,Ahmednagar,January,Winter,Yes,Cool,High,Senior Citizens,Yes,Medium,Low,High
+Ajanta Caves,Aurangabad,August,Monsoon,Yes,Rainy,High,Senior Citizens,Yes,High,Low,High
+Gateway of India,Mumbai,January,Winter,No,Cool,Medium,Foreign Tourists,Yes,Medium,Medium,Medium
+Sindhudurg Fort,Sindhudurg,February,Winter,No,Cool,High,Students,No,Low,Low,High
+Gateway of India,Mumbai,January,Winter,Yes,Cool,High,Students,Yes,Low,Medium,High
+Gateway of India,Mumbai,December,Winter,Yes,Cool,High,Senior Citizens,No,Low,Low,High
+Sindhudurg Fort,Sindhudurg,November,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Families,Yes,High,Low,High
+Ellora Caves,Aurangabad,September,Monsoon,No,Rainy,Low,Senior Citizens,No,High,Medium,Low
+Shani Shingnapur,Ahmednagar,May,Summer,Yes,Hot,High,Students,No,High,Low,High
+Shirdi,Ahmednagar,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Gateway of India,Mumbai,July,Monsoon,No,Rainy,Low,Families,Yes,Low,High,Low
+Daulatabad Fort,Aurangabad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,April,Summer,No,Hot,Medium,Students,Yes,Medium,Medium,High
+Raigad Fort,Raigad,September,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Low,Low
+Daulatabad Fort,Aurangabad,March,Summer,No,Hot,Medium,Families,No,High,High,High
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,High,Families,No,Low,High,High
+Shirdi,Ahmednagar,April,Summer,No,Hot,Medium,Students,Yes,High,Medium,High
+Raigad Fort,Raigad,September,Monsoon,No,Rainy,Low,Students,No,High,Low,Low
+Ajanta Caves,Aurangabad,June,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Low,Medium,Low
+Mahabaleshwar,Satara,July,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,High,High,Low
+Raigad Fort,Raigad,April,Summer,Yes,Hot,High,Foreign Tourists,Yes,Low,Medium,High
+Daulatabad Fort,Aurangabad,March,Summer,No,Hot,High,Senior Citizens,No,High,Low,High
+Mahabaleshwar,Satara,June,Monsoon,No,Rainy,Medium,Foreign Tourists,Yes,Low,Low,High
+Gateway of India,Mumbai,February,Winter,No,Cool,Medium,Foreign Tourists,Yes,High,Low,Medium
+Sindhudurg Fort,Sindhudurg,September,Monsoon,No,Rainy,Medium,Students,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,Low,Medium,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,No,Pleasant,Medium,Families,Yes,High,Low,Medium
+Ajanta Caves,Aurangabad,December,Winter,Yes,Cool,High,Senior Citizens,No,Low,High,High
+Shani Shingnapur,Ahmednagar,March,Summer,No,Hot,Medium,Families,No,High,Medium,Medium
+Daulatabad Fort,Aurangabad,May,Summer,No,Hot,Medium,Senior Citizens,No,Low,Medium,High
+Trimbakeshwar Temple,Nashik,November,Post-Monsoon,No,Pleasant,High,Foreign Tourists,Yes,High,High,High
+Gateway of India,Mumbai,March,Summer,Yes,Hot,High,Families,Yes,Medium,Low,High
+Daulatabad Fort,Aurangabad,August,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,Medium,Medium,Low
+Sindhudurg Fort,Sindhudurg,May,Summer,No,Hot,Medium,Senior Citizens,Yes,Medium,High,Medium
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Senior Citizens,Yes,Medium,Medium,High
+Raigad Fort,Raigad,August,Monsoon,No,Rainy,Low,Foreign Tourists,Yes,Medium,Low,Low
+Mahabaleshwar,Satara,February,Winter,Yes,Cool,High,Students,Yes,Medium,High,High
+Daulatabad Fort,Aurangabad,August,Monsoon,Yes,Rainy,Low,Students,No,Low,High,Low
+Daulatabad Fort,Aurangabad,October,Post-Monsoon,No,Pleasant,Medium,Senior Citizens,Yes,Medium,High,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,No,Pleasant,Medium,Families,No,Medium,Medium,High
+Raigad Fort,Raigad,May,Summer,No,Hot,Medium,Students,No,High,Medium,Medium
+Trimbakeshwar Temple,Nashik,December,Winter,Yes,Cool,High,Families,Yes,High,Low,High
+Mahabaleshwar,Satara,October,Post-Monsoon,Yes,Pleasant,High,Students,No,Low,Medium,High
+Shirdi,Ahmednagar,January,Winter,No,Cool,High,Families,Yes,Medium,Medium,High
+Daulatabad Fort,Aurangabad,March,Summer,Yes,Hot,High,Students,No,High,Medium,High
+Shani Shingnapur,Ahmednagar,December,Winter,No,Cool,Medium,Senior Citizens,Yes,Medium,Low,High
+Ellora Caves,Aurangabad,May,Summer,No,Hot,High,Families,No,High,Medium,High
+Ajanta Caves,Aurangabad,December,Winter,No,Cool,High,Senior Citizens,No,High,High,High
+Ajanta Caves,Aurangabad,May,Summer,Yes,Hot,High,Students,Yes,Low,Medium,High
+Gateway of India,Mumbai,August,Monsoon,Yes,Rainy,Low,Senior Citizens,Yes,Medium,Medium,Low
+Shirdi,Ahmednagar,September,Monsoon,Yes,Rainy,Low,Foreign Tourists,Yes,High,Low,Low
+Mahabaleshwar,Satara,May,Summer,No,Hot,Medium,Students,Yes,Medium,Medium,Medium
+Ajanta Caves,Aurangabad,April,Summer,Yes,Hot,High,Senior Citizens,No,Medium,Medium,High
+Ajanta Caves,Aurangabad,November,Post-Monsoon,Yes,Pleasant,High,Families,Yes,High,Medium,High
+Mahabaleshwar,Satara,August,Monsoon,Yes,Rainy,Low,Students,No,High,High,Low
+Shirdi,Ahmednagar,February,Winter,Yes,Cool,High,Senior Citizens,Yes,Low,Medium,High
+Mahabaleshwar,Satara,September,Monsoon,Yes,Rainy,Low,Students,Yes,High,Low,Low
+Raigad Fort,Raigad,May,Summer,Yes,Hot,High,Foreign Tourists,Yes,High,High,High
+Mahabaleshwar,Satara,October,Post-Monsoon,No,Pleasant,High,Senior Citizens,No,High,High,High
